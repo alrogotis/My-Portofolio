@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
+form{
+    width: 80%;
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+label span{
+    display: inline-block;
+    text-align: right;
+    width: 120px;
+}
+input{
+    width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=radio]{
+    width: auto;
+
+}
+input:focus{
+    border-color: #a1a1a1;
+}
+button{
+    margin: 20px 0px 0px 120px;
+}
+fieldset{
+    width: 250px;
+    margin-left: 125px;
+}
+abbr{
+    color: red;
+}
+#card{
+    background-color: #c5bbbb;
+}

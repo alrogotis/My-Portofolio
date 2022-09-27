@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!--Φόρμα πληρωμής site-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Φόρμα Πληρωμής</title>
+    <link rel="stylesheet" href="simpleForm.css">
+</head>
+<body>
+    <!--Άρχη Φόρμας-->
+    <form>
+        <h1>Φόρμα Πληρωμής</h1>
+        <p>Τα υποχρεωτικά πεδία ακολουθούνται από * .</p>
+        <!--Πρώτο μέρος Φόρμας-->
+        <section>
+            <h2>Προσωπικά Στοιχεία</h2>
+                <ul>
+                    <li>
+                        <fieldset>
+                            <legend>Title</legend>
+                                <input type="radio" id="Mr.">Mr.<br>
+                                <input type="radio" id="Mrs.">Mrs.<br>
+                                <input type="radio" id="Dr.">Dr.<br>
+                        </fieldset>
+                    </li>
+                    <li>
+                        <label for="name" id="nameLabel">Name: *</label>
+                        <input type="text" id="name">
+                    </li>
+                    <li>
+                        <label for="email" id="emailLabel">E-mail: *</label>
+                        <input type="email" id="email">
+                    </li>
+                    <li>
+                        <label for="password" id="passwordLabel">Password: *</label>
+                        <input type="password" id="password">
+                    </li>
+                </ul>
+        </section>
+            <h2>Πληροφορίες Πληρωμής</h2>
+            <!--Δεύτερο μέρος Φόρμας-->
+                <section>
+                    <ul>
+                        <li>
+                            <label for="cardtype">Card type: </label>
+                            <select id="card">
+                                <option value="visa">Visa</option>
+                                <option value="mastercard">Mastercard</option>
+                            </select>
+                        </li>
+                        <li>
+                            <label for="cardnumber" id="cardLabel">Card number: *</label>
+                            <input type="text" id="cardnumber">
+                        </li>
+                        <li>
+                            <label for="expiration" id="expirationLabel">Expiration date: *</label>
+                            <input type="text" placeholder="MM/YY" id="expiration">
+                        </li>
+                    </ul>
+                </section><br>
+            <!--Κουμπί πληρωμής-->
+            <button type="submit" id="submit">Προχωρήστε στην πληρωμή</button>
+                
+                
+    </form>
+    
+</body>
+</html>

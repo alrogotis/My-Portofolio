@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style Επικεφαλιδας */
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #363636;
+}
+
+.logoimage{
+    width: 100%;
+    height: 100px;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 30px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+/* Style main section */
+
+.main{
+    display: flex;
+    margin: 20px 20px auto 20px;
+    justify-content: space-between;
+}
+
+.box1,.box2,.box3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    width:fit-content;
+    height: 376px;
+}
+
+.box1{
+    background-color: #6da657;
+    color: white;
+}
+.box2{
+    background-color: #e6e5ac;
+}
+.box3{
+    color: white;
+    background-color: #80adcc;
+}
+
+.emailbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 98%;
+    height: 300px;
+    border-radius: 20px;
+    background-color: #e7bf12;
+}
+
+.signUpMessage{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    display: flex;
+    padding-top: 20px;
+}
+
+.email{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 70px;
+    border-bottom: 1px solid black;
+}
+
+.mailInput{
+    float: left;
+    font-size: x-large;
+    background-color: #e7bf12;
+    border: 0;
+}
+
+.send{
+    margin-left: 300px;
+    font-size: x-large;
+}
+
+/* Style Footer */
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+
+.copyright{
+    margin-left: 20px;
+    font-size: large;
+    float: left;
+}
+
+.followUs{
+    margin-right: 20px;
+    font-size: large;
+    float: right;
+}
+
+.fa-solid{
+    font-size: larger;
+}
+
+.fa-brands{
+    font-size: xx-large;
+}

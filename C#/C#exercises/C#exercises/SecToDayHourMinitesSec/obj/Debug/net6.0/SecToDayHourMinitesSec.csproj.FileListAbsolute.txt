@@ -1,0 +1,15 @@
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\bin\Debug\net6.0\SecToDayHourMinitesSec.exe
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\bin\Debug\net6.0\SecToDayHourMinitesSec.deps.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\bin\Debug\net6.0\SecToDayHourMinitesSec.runtimeconfig.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\bin\Debug\net6.0\SecToDayHourMinitesSec.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\bin\Debug\net6.0\SecToDayHourMinitesSec.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.csproj.AssemblyReference.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.AssemblyInfoInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.AssemblyInfo.cs
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.csproj.CoreCompileInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\refint\SecToDayHourMinitesSec.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\SecToDayHourMinitesSec.genruntimeconfig.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\SecToDayHourMinitesSec\obj\Debug\net6.0\ref\SecToDayHourMinitesSec.dll

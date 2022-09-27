@@ -1,0 +1,47 @@
+/*Styling για την askhsh1.html*/
+
+ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;   
+}
+
+li{
+    text-align: left;
+    margin: 5px;
+}
+
+/* textbox style */
+
+#Επώνυμο,#Όνομα,#e-mail{
+    width: 300px;
+}
+
+#Όνομα{
+    margin-left: 101px;
+}
+
+#Επώνυμο{
+    margin-left: 85px;
+}
+
+#Ημερομήνια{
+    width: 100px;
+}
+
+#Έτος{
+    width: 50px;
+    margin-left: 50px;
+}
+
+#e-mail{
+    margin-left: 50px;
+}
+
+#Password{
+    width: 150px;
+    margin-left: 80px;
+}
+
+
+

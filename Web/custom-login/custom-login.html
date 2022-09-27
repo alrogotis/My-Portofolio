@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="custom-login.css">
+</head>
+<body>
+    <div class="container">
+        <div class="middle">
+            <div class="mg-bottom">
+                <img src="img/film.png" alt="film-logo" class="film-logo">
+            </div>
+            <div class="inner-form rounded">
+                <form action="/login" method="post">
+                    <div class="mg-bottom">
+                        <span><strong>Σύνδεση Χρήστη</strong></span>
+                    </div>
+                    <div class="mg-bottom">
+                        <input id="email" class="form-input account" type="text" placeholder="email" value="" name="username" autofocus>
+                    </div>
+                    <div class="mg-bottom">
+                        <input type="password" name="password" id="password" class="form-input password" placeholder="password" value="">
+                    </div>
+                    <div class="mg-bottom">
+                        <input type="submit" class="form-btn" value="Σύνδεση">
+                    </div>
+                    <div class="mg-bottom">
+                        <span>Δεν έχετε λογαριασμό; Δημιουργήστε έναν </span><a href="/register">εδώ</a>
+                    </div>
+                </form>
+            </div>
+            <div class="alert rounded"></div>
+        </div>
+    </div> 
+</body>
+</html>

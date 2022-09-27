@@ -1,0 +1,379 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&family=Roboto:wght@100;400&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.container {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #363636;
+}
+
+
+.logo-img {
+    width: auto;
+    height: 100px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    list-style: none;
+}
+
+.menu > li:last-of-type {
+    margin-right: 40px;
+}
+
+.menu a {
+        font-size: 1.1em;
+        text-decoration: none;
+}
+
+.menu a:link,
+.menu a:visited {
+    color: #FEFFFF;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+/* SubMenu Styling */
+
+.menu .dropdown {
+    position: relative;
+}
+
+.menu .submenu {
+    display: none;
+}
+
+.menu .dropdown:hover .submenu {
+    padding-top: 20px ;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    position: absolute;
+    top: 30px;
+    left: -10px;
+    background-color: #363636;
+}
+
+.menu .dropdown span {
+    position: relative;
+    z-index: 1;
+}
+
+.menu .submenu > li {
+    width: 150px;
+}
+
+.menu .submenu a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 10px 10px;
+    border-bottom: 1px solid black;    
+}
+
+.menu .submenu a:hover {
+    background-color: #7fadcc;
+    text-decoration: none;
+}
+
+.menu .dropdown {
+    position: relative;
+}
+
+.menu .submenu {
+    display: none;
+}
+
+.menu .dropdown:hover .submenu {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    position: absolute;
+    top: 20px;
+    left: -10px;
+    background-color: #363636;
+
+}
+
+.menu .submenu > li {
+    width: 150px;
+}
+
+.menu .submenu a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 10px 10px;
+    border-bottom: 1px solid black;
+}
+
+.menu .submenu a:hover {
+    background-color: #7fadcc;
+    text-decoration: none;
+
+}
+
+.nav-toggle {
+    display: none;
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+
+/* Menu toggle */
+
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+}
+
+.menu-toggle > li {
+    text-align: center;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+.menu-toggle .submenu > li {
+    font-size: 0.8em;
+    padding: 10px;
+
+}
+
+.menu-toggle > .dropdown > a:link,
+.menu-toggle > .dropdown > a:visited {
+    color: black;
+}
+
+.menu-toggle a {
+    text-decoration: none;
+}
+
+.slider {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: calc(100vh - 100px);
+    background-image: url(img/art.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slider > .title {
+    font-size: 2.2em;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    width: 600px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.slider > .subtitle {
+    width: 600px;
+    text-align: center;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+.fg-color-light {
+    color: #FEFFFF;
+}
+
+.fg-color-dark {
+    color: black;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+div[class^=side] {
+    width: 30%;
+    min-height: 400px;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.side-left {
+    background-color: #6da657;
+    background-image: url(img/creativity.png);
+}
+
+.side-middle {
+    background-color: #e5e5ac;
+    background-image: url(img/future-talent.png);
+}
+
+.side-right {
+    background-color: #7fadcc;
+    background-image: url(img/new-skills.png)
+}
+
+.side-text {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 220px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4em;
+    width: 75%;
+    text-align: center;
+}
+
+.signup {
+    overflow: auto;
+    border-radius: 20px;
+    width: 97%;
+    min-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e7bf13;
+}
+
+.signup-text {
+    width: 80%;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 20px auto;
+}
+
+.leads {
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    border-bottom: 1px solid black;
+
+}
+
+.mail-address {
+    background: none;
+    border: none;
+    outline: none;
+    height: 50px;
+}
+
+.send-box {
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mail-address,
+.mail-address::placeholder,
+.send-text {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 2px; 
+}
+
+.form-submit {
+    width: 40px;
+    height: 30px;
+    background-image: url(../img/r-arrow.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border: none;
+    background-color: #e7bf13;
+}
+
+.send-text,
+.form-submit {
+    cursor: pointer;
+}
+
+.footer {
+    width: 97%;
+    margin: 0 auto;
+}
+
+.copyright-text {
+    width: 500px;
+}
+
+.footer,
+.copyright-text,
+.social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100px;
+}
+
+.follow-text {
+    font-size: 0.8em;
+}
+
+.fa-brands {
+    font-size: 35px;
+}
+
+.social {
+    width: 130px;
+}
+
+@media (max-width: 1000px) {
+    .menu {
+        display: none;
+    }
+
+    .nav-toggle {
+        display: block;
+    }
+}
+
+.dropdown {
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: flex;
+}

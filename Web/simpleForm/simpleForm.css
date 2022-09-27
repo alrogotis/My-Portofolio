@@ -1,0 +1,54 @@
+
+/* li style */
+li{
+    
+    list-style-type:none;
+    margin: 10px;
+}
+
+/* fieldselt style */
+fieldset{
+    margin-left: 90px;
+    text-align: left;
+    width: 250px;
+}
+
+/* input text style */
+#name, #email, #password, #cardnumber, #expiration{
+    width: 250px;
+}
+
+/* name label style */
+#nameLabel{
+    margin-left: 30px;
+}
+
+/* email label style */
+#emailLabel{
+    margin-left: 25px;
+}
+
+/* password label style */
+#passwordLabel{
+    margin-left: 6px;
+}
+
+/* selectbox style */
+select{
+    width: 140px;
+}
+
+/* card number label style */
+#cardLabel{
+    margin-left: -15px;
+}
+
+/* expiration number label style */
+#expirationLabel{
+    margin-left: -30px;
+}
+
+button{
+    margin-left: 120px;
+}
+

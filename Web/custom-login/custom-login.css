@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    display: table;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.middle{
+    display: table-cell;
+    vertical-align: middle;
+}
+img.film-logo{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.inner-form{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    background-color: #ffff;
+    border: 4px solid #2980b9;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.mg-bottom{
+    margin-bottom: 20px;
+}
+.rounded{
+    border-radius: 25px;
+}
+.form-input{
+    width: 200px;
+    height: 50px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 35px 35px;
+    padding-left: 45px;
+    border-radius: 20px;
+    border: 1.5 solid black;
+}
+.form-btn{
+    width: 160px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1.5px solid black;
+    background-color: #87ceeb;
+
+}
+input.form-input.account{
+    background-image: url(img/account.png);
+}

@@ -1,0 +1,15 @@
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\bin\Debug\net6.0\EuroToDollarDemoApp.exe
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\bin\Debug\net6.0\EuroToDollarDemoApp.deps.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\bin\Debug\net6.0\EuroToDollarDemoApp.runtimeconfig.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\bin\Debug\net6.0\EuroToDollarDemoApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\bin\Debug\net6.0\EuroToDollarDemoApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.csproj.AssemblyReference.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.AssemblyInfoInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.AssemblyInfo.cs
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\refint\EuroToDollarDemoApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\EuroToDollarDemoApp.genruntimeconfig.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\EuroToDollarDemoApp\obj\Debug\net6.0\ref\EuroToDollarDemoApp.dll

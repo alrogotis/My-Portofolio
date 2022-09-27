@@ -1,0 +1,15 @@
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\bin\Debug\net6.0\DateToSecApp.exe
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\bin\Debug\net6.0\DateToSecApp.deps.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\bin\Debug\net6.0\DateToSecApp.runtimeconfig.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\bin\Debug\net6.0\DateToSecApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\bin\Debug\net6.0\DateToSecApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.csproj.AssemblyReference.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.AssemblyInfoInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.AssemblyInfo.cs
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\refint\DateToSecApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\DateToSecApp.genruntimeconfig.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\DateToSecApp\obj\Debug\net6.0\ref\DateToSecApp.dll
