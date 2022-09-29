@@ -1,0 +1,15 @@
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\bin\Debug\net6.0\LocalizationApp.exe
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\bin\Debug\net6.0\LocalizationApp.deps.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\bin\Debug\net6.0\LocalizationApp.runtimeconfig.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\bin\Debug\net6.0\LocalizationApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\bin\Debug\net6.0\LocalizationApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.csproj.AssemblyReference.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.AssemblyInfoInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.AssemblyInfo.cs
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\refint\LocalizationApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\LocalizationApp.genruntimeconfig.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\LocalizationApp\obj\Debug\net6.0\ref\LocalizationApp.dll

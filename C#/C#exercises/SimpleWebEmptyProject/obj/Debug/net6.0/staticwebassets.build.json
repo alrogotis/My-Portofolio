@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QPGa0A5Ud0tmdC0PFLzknGLLZukUc2XK8R6MTYDe//A=",
+  "Source": "WebAppSimple",
+  "BasePath": "_content/WebAppSimple",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppSimple\\wwwroot",
+      "Source": "WebAppSimple",
+      "ContentRoot": "C:\\Users\\Alexadros-pc\\source\\repos\\CodingFactoryMar22\\WebEmpty\\wwwroot\\",
+      "BasePath": "_content/WebAppSimple",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Alexadros-pc\\source\\repos\\CodingFactoryMar22\\WebEmpty\\wwwroot\\index.html",
+      "SourceId": "WebAppSimple",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alexadros-pc\\source\\repos\\CodingFactoryMar22\\WebEmpty\\wwwroot\\",
+      "BasePath": "_content/WebAppSimple",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

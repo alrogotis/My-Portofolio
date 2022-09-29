@@ -1,0 +1,15 @@
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\bin\Debug\net6.0\FiboDemo.exe
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\bin\Debug\net6.0\FiboDemo.deps.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\bin\Debug\net6.0\FiboDemo.runtimeconfig.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\bin\Debug\net6.0\FiboDemo.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\bin\Debug\net6.0\FiboDemo.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.csproj.AssemblyReference.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.AssemblyInfoInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.AssemblyInfo.cs
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\refint\FiboDemo.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\FiboDemo.genruntimeconfig.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\FiboDemo\obj\Debug\net6.0\ref\FiboDemo.dll

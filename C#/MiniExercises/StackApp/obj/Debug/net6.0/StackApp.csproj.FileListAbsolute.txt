@@ -1,0 +1,15 @@
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\bin\Debug\net6.0\StackApp.exe
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\bin\Debug\net6.0\StackApp.deps.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\bin\Debug\net6.0\StackApp.runtimeconfig.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\bin\Debug\net6.0\StackApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\bin\Debug\net6.0\StackApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.csproj.AssemblyReference.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.AssemblyInfoInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.AssemblyInfo.cs
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\refint\StackApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\StackApp.genruntimeconfig.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\StackApp\obj\Debug\net6.0\ref\StackApp.dll

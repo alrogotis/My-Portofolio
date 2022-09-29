@@ -1,0 +1,15 @@
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\bin\Debug\net6.0\intTypesApp.exe
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\bin\Debug\net6.0\intTypesApp.deps.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\bin\Debug\net6.0\intTypesApp.runtimeconfig.json
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\bin\Debug\net6.0\intTypesApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\bin\Debug\net6.0\intTypesApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.csproj.AssemblyReference.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.AssemblyInfoInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.AssemblyInfo.cs
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\refint\intTypesApp.dll
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.pdb
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\intTypesApp.genruntimeconfig.cache
+C:\Users\Alexadros-pc\source\repos\CodingFactoryMar22\intTypesApp\obj\Debug\net6.0\ref\intTypesApp.dll
